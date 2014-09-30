@@ -1,0 +1,37 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="AccumulateYourLife.NewTask"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+    <StackPanel x:Name="canvas">
+        <ProgressBar x:Name="progressBar" HorizontalAlignment="Left" Height="16" Margin="4,0,0,0" VerticalAlignment="Top" Width="470"/>
+        <TextBlock Height="97" FontSize="72" Text="新建记忆任务"/>
+        <Grid Height="640">
+            <phone:LongListSelector x:Name="WordList" Margin="10,0,10,62">
+                <phone:LongListSelector.ItemTemplate>
+                    <DataTemplate x:Name="dataTemCheckbox">
+                        <StackPanel>
+                            <CheckBox  Content="{Binding Content}" FontSize="30" Margin="-5" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked" Height="75" />
+                        </StackPanel>
+                    </DataTemplate>
+                </phone:LongListSelector.ItemTemplate>
+            </phone:LongListSelector>
+        </Grid>
+
+    </StackPanel>
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar  x:Name="applicationBar">
+            <shell:ApplicationBarIconButton IconUri="Assets/Icons/add.png" Text="新建" Click="ApplicationBarIconButton_Click"/>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+</phone:PhoneApplicationPage>

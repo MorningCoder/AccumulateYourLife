@@ -1,0 +1,988 @@
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\ApplicationIcon.png
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife.pdb
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AppManifest.xaml
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Properties\WMAppManifest.xml
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife_Debug_AnyCPU.xap
+E:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\App.g.cs
+E:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.g.resources
+E:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.Resources.AppResources.resources
+E:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.csproj.GenerateResource.Cache
+E:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.pdb
+E:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\XapCacheFile.xml
+E:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\About.g.cs
+E:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\Help.g.cs
+E:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewRecord.g.cs
+E:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewWord.g.cs
+E:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageLogin.g.cs
+E:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\MainPage.g.cs
+E:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageRecord.g.cs
+E:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageStart.g.cs
+E:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageWord.g.cs
+C:\Users\JJ\Desktop\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\JJ\Desktop\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\JJ\Desktop\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\JJ\Desktop\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\JJ\Desktop\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\JJ\Desktop\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\JJ\Desktop\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife.dll
+C:\Users\JJ\Desktop\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife.pdb
+C:\Users\JJ\Desktop\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AppManifest.xaml
+C:\Users\JJ\Desktop\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\JJ\Desktop\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife_Debug_AnyCPU.xap
+C:\Users\JJ\Desktop\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\JJ\Desktop\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.csprojResolveAssemblyReference.cache
+C:\Users\JJ\Desktop\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\App.g.cs
+C:\Users\JJ\Desktop\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\About.g.cs
+C:\Users\JJ\Desktop\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\Help.g.cs
+C:\Users\JJ\Desktop\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageLogin.g.cs
+C:\Users\JJ\Desktop\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\MainPage.g.cs
+C:\Users\JJ\Desktop\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageMemory.g.cs
+C:\Users\JJ\Desktop\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageMusic.g.cs
+C:\Users\JJ\Desktop\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewMusic.g.cs
+C:\Users\JJ\Desktop\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewRecord.g.cs
+C:\Users\JJ\Desktop\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewWord.g.cs
+C:\Users\JJ\Desktop\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageRecord.g.cs
+C:\Users\JJ\Desktop\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageStart.g.cs
+C:\Users\JJ\Desktop\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageWord.g.cs
+C:\Users\JJ\Desktop\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.g.resources
+C:\Users\JJ\Desktop\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.Resources.AppResources.resources
+C:\Users\JJ\Desktop\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.csproj.GenerateResource.Cache
+C:\Users\JJ\Desktop\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.dll
+C:\Users\JJ\Desktop\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.pdb
+C:\Users\JJ\Desktop\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\XapCacheFile.xml
+E:\C#\WP8\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\ApplicationIcon.png
+E:\C#\WP8\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\C#\WP8\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\C#\WP8\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\C#\WP8\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\C#\WP8\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\C#\WP8\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife.dll
+E:\C#\WP8\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife.pdb
+E:\C#\WP8\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AppManifest.xaml
+E:\C#\WP8\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Properties\WMAppManifest.xml
+E:\C#\WP8\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife_Debug_AnyCPU.xap
+E:\C#\WP8\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\C#\WP8\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\App.g.cs
+E:\C#\WP8\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\About.g.cs
+E:\C#\WP8\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\Help.g.cs
+E:\C#\WP8\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageLogin.g.cs
+E:\C#\WP8\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\MainPage.g.cs
+E:\C#\WP8\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageMemory.g.cs
+E:\C#\WP8\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageMusic.g.cs
+E:\C#\WP8\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewMusic.g.cs
+E:\C#\WP8\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewRecord.g.cs
+E:\C#\WP8\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewWord.g.cs
+E:\C#\WP8\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageRecord.g.cs
+E:\C#\WP8\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageStart.g.cs
+E:\C#\WP8\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageWord.g.cs
+E:\C#\WP8\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.g.resources
+E:\C#\WP8\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.Resources.AppResources.resources
+E:\C#\WP8\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.csproj.GenerateResource.Cache
+E:\C#\WP8\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.dll
+E:\C#\WP8\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.pdb
+E:\C#\WP8\AccumulateYourLife（修复bug版）\AccumulateYourLife\AccumulateYourLife\obj\Debug\XapCacheFile.xml
+C:\Users\刘易承\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\刘易承\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\刘易承\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\刘易承\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\刘易承\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\刘易承\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\刘易承\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife.dll
+C:\Users\刘易承\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife.pdb
+C:\Users\刘易承\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AppManifest.xaml
+C:\Users\刘易承\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\刘易承\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife_Debug_AnyCPU.xap
+C:\Users\刘易承\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\刘易承\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.csprojResolveAssemblyReference.cache
+C:\Users\刘易承\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\App.g.cs
+C:\Users\刘易承\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\About.g.cs
+C:\Users\刘易承\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\Help.g.cs
+C:\Users\刘易承\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageLogin.g.cs
+C:\Users\刘易承\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\MainPage.g.cs
+C:\Users\刘易承\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageMemory.g.cs
+C:\Users\刘易承\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageMusic.g.cs
+C:\Users\刘易承\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewMusic.g.cs
+C:\Users\刘易承\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewRecord.g.cs
+C:\Users\刘易承\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewWord.g.cs
+C:\Users\刘易承\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageRecord.g.cs
+C:\Users\刘易承\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageStart.g.cs
+C:\Users\刘易承\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageWord.g.cs
+C:\Users\刘易承\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.g.resources
+C:\Users\刘易承\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.Resources.AppResources.resources
+C:\Users\刘易承\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.csproj.GenerateResource.Cache
+C:\Users\刘易承\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.dll
+C:\Users\刘易承\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.pdb
+C:\Users\刘易承\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\XapCacheFile.xml
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife\AccumulateYourLife\obj\Debug\App.g.cs
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife\AccumulateYourLife\obj\Debug\About.g.cs
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife\AccumulateYourLife\obj\Debug\Help.g.cs
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageLogin.g.cs
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife\AccumulateYourLife\obj\Debug\MainPage.g.cs
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageMemory.g.cs
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageMusic.g.cs
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewMusic.g.cs
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewRecord.g.cs
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewWord.g.cs
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageRecord.g.cs
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageStart.g.cs
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageWord.g.cs
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.g.resources
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.Resources.AppResources.resources
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.csproj.GenerateResource.Cache
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.dll
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\ApplicationIcon.png
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife.dll
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife.pdb
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AppManifest.xaml
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Properties\WMAppManifest.xml
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife_Debug_AnyCPU.xap
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.pdb
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife\AccumulateYourLife\obj\Debug\XapCacheFile.xml
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.csprojResolveAssemblyReference.cache
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife 2.6\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.csprojResolveAssemblyReference.cache
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife 2.6\AccumulateYourLife\AccumulateYourLife\obj\Debug\App.g.cs
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife 2.6\AccumulateYourLife\AccumulateYourLife\obj\Debug\About.g.cs
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife 2.6\AccumulateYourLife\AccumulateYourLife\obj\Debug\Help.g.cs
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife 2.6\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageLogin.g.cs
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife 2.6\AccumulateYourLife\AccumulateYourLife\obj\Debug\MainPage.g.cs
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife 2.6\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageMemory.g.cs
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife 2.6\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageMusic.g.cs
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife 2.6\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewMusic.g.cs
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife 2.6\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewRecord.g.cs
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife 2.6\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewWord.g.cs
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife 2.6\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageRecord.g.cs
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife 2.6\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageStart.g.cs
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife 2.6\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageWord.g.cs
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife 2.6\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.g.resources
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife 2.6\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.Resources.AppResources.resources
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife 2.6\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.csproj.GenerateResource.Cache
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife 2.6\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.dll
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife 2.6\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.pdb
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife 2.6\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\ApplicationIcon.png
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife 2.6\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife 2.6\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife 2.6\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife 2.6\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife 2.6\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife 2.6\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife.dll
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife 2.6\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife.pdb
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife 2.6\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AppManifest.xaml
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife 2.6\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Properties\WMAppManifest.xml
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife 2.6\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife_Debug_AnyCPU.xap
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife 2.6\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\C#\WP8\AccumulateYourLife 最新版\AccumulateYourLife 2.6\AccumulateYourLife\AccumulateYourLife\obj\Debug\XapCacheFile.xml
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\ApplicationIcon.png
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife.pdb
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AppManifest.xaml
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Properties\WMAppManifest.xml
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife_Debug_AnyCPU.xap
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Microsoft.Phone.Controls.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\App.g.cs
+F:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\About.g.cs
+F:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\Help.g.cs
+F:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageLogin.g.cs
+F:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\MainPage.g.cs
+F:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageMemory.g.cs
+F:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageMusic.g.cs
+F:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewMusic.g.cs
+F:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewRecord.g.cs
+F:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewWord.g.cs
+F:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageRecord.g.cs
+F:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageStart.g.cs
+F:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageWord.g.cs
+F:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.g.resources
+F:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.Resources.AppResources.resources
+F:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.csproj.GenerateResource.Cache
+F:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.dll
+F:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.pdb
+F:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\XapCacheFile.xml
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\ApplicationIcon.png
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife.pdb
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AppManifest.xaml
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Properties\WMAppManifest.xml
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife_Debug_AnyCPU.xap
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\AccumulateYourLife\AccumulateYourLife\obj\Debug\App.g.cs
+C:\AccumulateYourLife\AccumulateYourLife\obj\Debug\About.g.cs
+C:\AccumulateYourLife\AccumulateYourLife\obj\Debug\Help.g.cs
+C:\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageLogin.g.cs
+C:\AccumulateYourLife\AccumulateYourLife\obj\Debug\MainPage.g.cs
+C:\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageMemory.g.cs
+C:\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageMusic.g.cs
+C:\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewMusic.g.cs
+C:\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewRecord.g.cs
+C:\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewWord.g.cs
+C:\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageRecord.g.cs
+C:\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageStart.g.cs
+C:\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageWord.g.cs
+C:\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.g.resources
+C:\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.Resources.AppResources.resources
+C:\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.csproj.GenerateResource.Cache
+C:\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.dll
+C:\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.pdb
+C:\AccumulateYourLife\AccumulateYourLife\obj\Debug\XapCacheFile.xml
+C:\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.csprojResolveAssemblyReference.cache
+F:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.csprojResolveAssemblyReference.cache
+E:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\RemWord.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife.pdb
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AppManifest.xaml
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife_Debug_AnyCPU.xap
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\obj\Debug\App.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\obj\Debug\About.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\obj\Debug\Help.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageLogin.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\obj\Debug\MainPage.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewRecord.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewWord.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageRecord.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageStart.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageWord.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\obj\Debug\RemWord.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.g.resources
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.Resources.AppResources.resources
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.csproj.GenerateResource.Cache
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.pdb
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.8\AccumulateYourLife\AccumulateYourLife\obj\Debug\XapCacheFile.xml
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife.pdb
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AppManifest.xaml
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife_Debug_AnyCPU.xap
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\App.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\About.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\Help.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageLogin.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\MainPage.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewRecord.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewWord.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageRecord.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageStart.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageWord.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\RemWord.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.g.resources
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.Resources.AppResources.resources
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.csproj.GenerateResource.Cache
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.pdb
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\XapCacheFile.xml
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife.pdb
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AppManifest.xaml
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife_Debug_AnyCPU.xap
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.csprojResolveAssemblyReference.cache
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\App.g.cs
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\About.g.cs
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\Help.g.cs
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageLogin.g.cs
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\MainPage.g.cs
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewRecord.g.cs
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewWord.g.cs
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageRecord.g.cs
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageStart.g.cs
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageSync.g.cs
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageWord.g.cs
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\RemWord.g.cs
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.g.resources
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.Resources.AppResources.resources
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.csproj.GenerateResource.Cache
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.dll
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.pdb
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\XapCacheFile.xml
+E:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageSync.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageSync.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.csprojResolveAssemblyReference.cache
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\AccumulateYourLife.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\AccumulateYourLife.pdb
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\AppManifest.xaml
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\AccumulateYourLife_Debug_AnyCPU.xap
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\obj\Debug\AccumulateYourLife.csprojResolveAssemblyReference.cache
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\obj\Debug\App.g.cs
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\obj\Debug\About.g.cs
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\obj\Debug\Help.g.cs
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\obj\Debug\PageLogin.g.cs
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\obj\Debug\MainPage.g.cs
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\obj\Debug\NewRecord.g.cs
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\obj\Debug\NewWord.g.cs
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\obj\Debug\PageRecord.g.cs
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\obj\Debug\PageStart.g.cs
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\obj\Debug\PageSync.g.cs
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\obj\Debug\PageWord.g.cs
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\obj\Debug\RemWord.g.cs
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\obj\Debug\AccumulateYourLife.g.resources
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\obj\Debug\AccumulateYourLife.Resources.AppResources.resources
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\obj\Debug\AccumulateYourLife.csproj.GenerateResource.Cache
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\obj\Debug\AccumulateYourLife.dll
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\obj\Debug\AccumulateYourLife.pdb
+C:\Users\LYC\Desktop\发生大幅度\AccumulateYourLife\obj\Debug\XapCacheFile.xml
+E:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageMp3s.g.cs
+E:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.csprojResolveAssemblyReference.cache
+C:\Users\Jay Jay\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageMp3s.g.cs
+C:\Users\LYC\Desktop\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageMp3s.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife.pdb
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AppManifest.xaml
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife_Debug_AnyCPU.xap
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.csprojResolveAssemblyReference.cache
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\obj\Debug\App.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\obj\Debug\About.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\obj\Debug\Help.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageLogin.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\obj\Debug\MainPage.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewRecord.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewWord.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageMp3s.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageRecord.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageStart.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageSync.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageWord.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\obj\Debug\RemWord.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.g.resources
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.Resources.AppResources.resources
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.csproj.GenerateResource.Cache
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.pdb
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最终版\AccumulateYourLife\AccumulateYourLife\obj\Debug\XapCacheFile.xml
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife.pdb
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AppManifest.xaml
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife_Debug_AnyCPU.xap
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\App.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\About.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\Help.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageLogin.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\MainPage.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewRecord.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewWord.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageMp3s.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageRecord.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageStart.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageSync.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageWord.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\RemWord.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.g.resources
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.Resources.AppResources.resources
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.csproj.GenerateResource.Cache
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.pdb
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 最新 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\XapCacheFile.xml
+E:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewTask.g.cs
+E:\工程\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageTask.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife.pdb
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AppManifest.xaml
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\AccumulateYourLife_Debug_AnyCPU.xap
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\App.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\About.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\Help.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewTask.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageLogin.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\MainPage.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewRecord.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\NewWord.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageMp3s.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageRecord.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageStart.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageSync.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageTask.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\PageWord.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\RemWord.g.cs
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.g.resources
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.Resources.AppResources.resources
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.csproj.GenerateResource.Cache
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.dll
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.pdb
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\XapCacheFile.xml
+C:\Users\Jay Jay\Desktop\AccumulateYourLife 3.20\AccumulateYourLife\AccumulateYourLife\obj\Debug\AccumulateYourLife.csprojResolveAssemblyReference.cache

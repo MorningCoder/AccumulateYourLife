@@ -1,0 +1,85 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="AccumulateYourLife.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+  
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DataContext="{d:DesignData SampleData/MainViewModelSampleData.xaml}"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="True" BackKeyPress="PhoneApplicationPage_BackKeyPress">
+    
+    
+    <!--LayoutRoot 是包含所有页面内容的根网格-->
+    <Grid x:Name="LayoutRoot">
+        <phone:Pivot x:Name="MainPivot" Title="记忆人生" SelectionChanged="MainPivot_SelectionChanged" Foreground="White">
+            <!--枢轴项一-->
+            <phone:PivotItem Header="单词本">
+                <phone:LongListSelector x:Name="WordList" Margin="0,0,0,10" SelectionChanged="LongListSelector_SelectionChanged">
+                    <phone:LongListSelector.ItemTemplate>
+                        <DataTemplate>
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*"/>
+                                </Grid.RowDefinitions>
+                                <TextBlock Grid.Row="0" Grid.Column="0" Text="{Binding Content}" TextWrapping="Wrap" Style="{StaticResource PhoneTextExtraLargeStyle}" Foreground="White"/>
+                            </Grid>
+                        </DataTemplate>
+                    </phone:LongListSelector.ItemTemplate>
+                </phone:LongListSelector>
+            </phone:PivotItem>
+        <!--枢轴项二-->
+            <phone:PivotItem Header="记忆任务">
+                <phone:LongListSelector x:Name="RecordList" Margin="0,0,0,10" SelectionChanged="RecordList_SelectionChanged">
+                    <phone:LongListSelector.ItemTemplate>
+                        <DataTemplate>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="auto"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <Rectangle Fill="{Binding ShowColor}" Grid.Column="0" Height="97" Width="97" Margin="4,2,4,2"/>
+                                <Rectangle Fill="{Binding ShowColor}" Grid.Column="1" Height="97" Margin="4,2,4,2"/>
+                                <TextBlock Grid.Column="0" Text="{Binding Title}" Width="95" Height="95" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="1" Canvas.ZIndex="1" TextWrapping="Wrap" AllowDrop="False" TextTrimming="None"/>
+                                <TextBlock  Grid.Column="1" Text="{Binding Content}" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="15,15" Canvas.ZIndex="1" TextWrapping="Wrap" TextTrimming="WordEllipsis" Height="95" />
+                            </Grid>
+                        </DataTemplate>
+                    </phone:LongListSelector.ItemTemplate>
+                </phone:LongListSelector>
+            </phone:PivotItem>
+        </phone:Pivot>
+        <ProgressBar x:Name="ProgressBar" HorizontalAlignment="Left" Height="14" VerticalAlignment="Top" Width="470"/>
+    </Grid>
+        <!--应用程序栏资源-->
+    <phone:PhoneApplicationPage.Resources>
+        <shell:ApplicationBar x:Key="WordBar" IsVisible="True" IsMenuEnabled="True" Opacity="1" BackgroundColor="#FF0872BB">
+            <shell:ApplicationBarIconButton IconUri="Assets/Icons/save.png" Text="记忆" Click="ApplicationBarIconButtonRemember_Click"/>
+            <shell:ApplicationBarIconButton IconUri="Assets/Icons/sync.png" Text="同步" Click="ApplicationBarIconButtonSync_Click"/>
+            <shell:ApplicationBarIconButton IconUri="Assets/Icons/feature.calendar.png" Text="词典" Click="ApplicationBarIconButtonAdd_Click"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="已保存的音频" Click="ApplicationBarMenuItemMp3_Click"/>
+                <shell:ApplicationBarMenuItem Text="打乱顺序" Click="ApplicationBarMenuItemMess_Click"/>
+                <shell:ApplicationBarMenuItem Text="颠倒顺序" Click="ApplicationBarMenuItemReverse_Click"/>
+                <shell:ApplicationBarMenuItem Text="设置与帮助" Click="ApplicationBarMenuItemHelp_Click"/>
+                <shell:ApplicationBarMenuItem Text="关于" Click="ApplicationBarMenuItemAbout_Click"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+        <shell:ApplicationBar x:Key="RecordBar" IsVisible="True" IsMenuEnabled="True" Opacity="1" BackgroundColor="#FF0872BB">
+            <shell:ApplicationBarIconButton IconUri="Assets/Icons/sync.png" Text="同步" Click="ApplicationBarIconButtonSync_Click"/>
+            <shell:ApplicationBarIconButton IconUri="Assets/Icons/add.png"  Text="添加记事项" Click="ApplicationBarIconButtonAdd_Click"/>
+            <shell:ApplicationBarIconButton IconUri="Assets/Icons/folder.png" Text="添加任务"  Click="ApplicationBarIconButtonAdd_Click"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="设置与帮助" Click="ApplicationBarMenuItemHelp_Click"/>
+                <shell:ApplicationBarMenuItem Text="关于" Click="ApplicationBarMenuItemAbout_Click"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+        
+    </phone:PhoneApplicationPage.Resources>
+    
+</phone:PhoneApplicationPage>

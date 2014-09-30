@@ -1,0 +1,48 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="AccumulateYourLife.PageTask"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <Canvas x:Name="canvas">
+        <TextBlock Height="92" Canvas.Left="10" TextWrapping="Wrap" Text="记忆任务" Canvas.Top="10" Width="460" FontSize="72" />
+        <TextBlock Height="33" Canvas.Left="10" TextWrapping="Wrap" Text="要背诵的单词列表" Canvas.Top="122" Width="210" FontSize="25"/>
+        <phone:LongListSelector x:Name="WordList" Height="278" Canvas.Left="10" Canvas.Top="155" Width="460" ScrollViewer.VerticalScrollBarVisibility="Auto" FontSize="37">
+            <phone:LongListSelector.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Content}"/>
+                </DataTemplate>
+            </phone:LongListSelector.ItemTemplate>
+        </phone:LongListSelector>
+        <TextBlock Height="27" Canvas.Left="10" TextWrapping="Wrap" Text="任务提醒日期" Canvas.Top="453" Width="174" RenderTransformOrigin="0.5,0.5" FontSize="25"/>
+        <phone:LongListSelector x:Name="TaskList" Height="205.5" Canvas.Top="485" Width="458.383" Canvas.Left="10.368" ScrollViewer.VerticalScrollBarVisibility="Auto" FontSize="37" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto">
+            <phone:LongListSelector.RenderTransform>
+                <CompositeTransform SkewX="-0.625" TranslateX="-1.489"/>
+            </phone:LongListSelector.RenderTransform>
+            <phone:LongListSelector.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Date}"/>
+                </DataTemplate>
+            </phone:LongListSelector.ItemTemplate>
+        </phone:LongListSelector>
+
+    </Canvas>
+
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar  x:Name="applicationBar">
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="关于" Click="ApplicationBarMenuItem_Click"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+</phone:PhoneApplicationPage>
